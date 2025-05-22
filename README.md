@@ -4,7 +4,7 @@ Exploratory Data Analysis on the following datasets:-\
 - Red Wine Dataset
 
 ## Folder Structure
-- `data/`: Put the raw dataset here (not pushed to GitHub)
+- `data/`: raw dataset here (not pushed to GitHub)
 - `notebooks/`: Jupyter notebooks for EDA
 
 ## Steps
