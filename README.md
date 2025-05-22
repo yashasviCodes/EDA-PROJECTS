@@ -1,7 +1,7 @@
 # EDA on Dataset Name
 
-Exploratory Data Analysis on [Dataset Name].  
-Source: [Dataset Link]
+Exploratory Data Analysis on the following datasets:-\
+- Red Wine Dataset
 
 ## Folder Structure
 - `data/`: Put the raw dataset here (not pushed to GitHub)
